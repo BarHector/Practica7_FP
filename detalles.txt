@@ -1,0 +1,7 @@
+Elaborar un programa que calcule el cuadrado y el cubo del 1 al 10.
+Debe de imprimir los 10 números, sus cuadrados y cubos en forma de tabla. Tambien debe de hacer la suma
+de los resultados de cada columna (potencia 1, potencia 2, potencia 3).
+
+Detalles
+Por ser la primera practica no se podia utilizar ciclos, por lo tanto esta hecho de esa forma.
+Al final se encuentra en forma de ciclo 'for'.
